@@ -1,0 +1,124 @@
+{
+    "entries": [
+        {
+            "domain": "phishing-test.com",
+            "category": "phishing",
+            "confidence": 0.99,
+            "source": "seed"
+        },
+        {
+            "domain": "fake-sbi-login.net",
+            "category": "phishing",
+            "confidence": 0.98,
+            "source": "seed"
+        },
+        {
+            "domain": "sbi-net-banking-secure.xyz",
+            "category": "phishing",
+            "confidence": 0.98,
+            "source": "seed"
+        },
+        {
+            "domain": "hdfc-bank-offer.tk",
+            "category": "phishing",
+            "confidence": 0.97,
+            "source": "seed"
+        },
+        {
+            "domain": "paytm-rewards-claim.ml",
+            "category": "scam",
+            "confidence": 0.96,
+            "source": "seed"
+        },
+        {
+            "domain": "phonepe-cashback.ga",
+            "category": "scam",
+            "confidence": 0.95,
+            "source": "seed"
+        },
+        {
+            "domain": "amazon-flash-sale.cf",
+            "category": "scam",
+            "confidence": 0.94,
+            "source": "seed"
+        },
+        {
+            "domain": "win-iphone-now.xyz",
+            "category": "scam",
+            "confidence": 0.97,
+            "source": "seed"
+        },
+        {
+            "domain": "download-required-app.tk",
+            "category": "fake-apk",
+            "confidence": 0.95,
+            "source": "seed"
+        },
+        {
+            "domain": "secure-apk-update.ml",
+            "category": "fake-apk",
+            "confidence": 0.94,
+            "source": "seed"
+        },
+        {
+            "domain": "free-recharge-trick.xyz",
+            "category": "scam",
+            "confidence": 0.92,
+            "source": "seed"
+        },
+        {
+            "domain": "upi-bonus-collect.ga",
+            "category": "scam",
+            "confidence": 0.93,
+            "source": "seed"
+        },
+        {
+            "domain": "login-verify-now.ml",
+            "category": "phishing",
+            "confidence": 0.96,
+            "source": "seed"
+        },
+        {
+            "domain": "account-suspended.tk",
+            "category": "phishing",
+            "confidence": 0.95,
+            "source": "seed"
+        },
+        {
+            "domain": "kyc-update-required.xyz",
+            "category": "phishing",
+            "confidence": 0.97,
+            "source": "seed"
+        },
+        {
+            "domain": "malware-dropper.pw",
+            "category": "malware",
+            "confidence": 0.99,
+            "source": "seed"
+        },
+        {
+            "domain": "trojan-host.ru",
+            "category": "malware",
+            "confidence": 0.98,
+            "source": "seed"
+        },
+        {
+            "domain": "rat-c2.club",
+            "category": "malware",
+            "confidence": 0.99,
+            "source": "seed"
+        },
+        {
+            "domain": "spam-mailer.ml",
+            "category": "spam",
+            "confidence": 0.88,
+            "source": "seed"
+        },
+        {
+            "domain": "bulk-sms-trick.xyz",
+            "category": "spam",
+            "confidence": 0.85,
+            "source": "seed"
+        }
+    ]
+}
